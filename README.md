@@ -1,10 +1,8 @@
+# Vagrant-Info
+
 # Description
 
-vagrant-info is show Vagrant file's info 
-
-Typical usage:
-
-- Get infomation about vagrant's virtual machine formatted by JSON.
+vagrant-info display vagrant vms information in JSON format
 
 # Installation
 
